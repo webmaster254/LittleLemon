@@ -1,0 +1,5 @@
+# Exclude virtual environment
+workspace/
+
+# Exclude environment variables file
+.env
